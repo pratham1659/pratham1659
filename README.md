@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratham1659&label=Profile%20views&color=0e75b6&style=flat" alt="pratham1659" /> </p>
 
-- 🔭 I’m currently working on [StyleByPratham: eCommerce Platform](https://github.com/pratham1659/stylebypratham)
+- 🔭 I’m currently working on [FashionPedia-ByPratham: eCommerce Platform](https://github.com/pratham1659/FashionPedia-Frontend)
 
-- 🌱 I’m currently learning **Spring Boot, React, and Typescript**
+- 🌱 I’m currently learning **React.js, Node.js, Express Js, JavaScript, and MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://www.prathamweb.me](https://www.prathamweb.me)
 
-- 💬 Ask me about **react and Spring Boot**
+- 💬 Ask me about **React.js and Node.js**
 
 - 📫 How to reach me **prathamkumar1985@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1h-MJzVQSATNEr6KKOH2QTcyWuOVf_Pko/view](https://drive.google.com/file/d/1h-MJzVQSATNEr6KKOH2QTcyWuOVf_Pko/view)
 
-- ⚡ Fun fact **I think I`m passionate about learning New skills Everyday**
+- ⚡ Fun fact **I think I`m passionate about learning new skills Everyday**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
