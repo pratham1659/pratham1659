@@ -13,9 +13,9 @@
 
 - 📫 How to reach me **prathamkumar1985@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1h-MJzVQSATNEr6KKOH2QTcyWuOVf_Pko/view](https://drive.google.com/file/d/1h-MJzVQSATNEr6KKOH2QTcyWuOVf_Pko/view)
+- 📄 Know about my experiences [**My Resume**](https://drive.google.com/file/d/1AQifNyPPHo0dBzNqq6oCGSgUpy_cfgDF/view)
 
-- ⚡ Fun fact **I think I`m passionate about learning new skills Everyday**
+- ⚡ Fun fact **I think I`m passionate about learning new skills every day**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
