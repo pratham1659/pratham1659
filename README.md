@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratham1659&label=Profile%20views&color=0e75b6&style=flat" alt="pratham1659" /> </p>
 
-- 🔭 I’m currently working on [FashionPedia-ByPratham: eCommerce Platform](https://github.com/pratham1659/FashionPedia-Frontend)
+- 🔭 I’m currently working on [UrbanLadder-Selenium-Testing](https://github.com/pratham1659/UrbanLadder-Selenium-Testing.git)
 
-- 🌱 I’m currently learning **React.js, Node.js, Express Js, JavaScript, and MongoDB**
+- 🌱 I’m currently learning **Automation Testing-selenium, React.js, Node.js, Express Js, JavaScript, and MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://www.prathamweb.me](https://www.prathamweb.me)
 
-- 💬 Ask me about **React.js and Node.js**
+- 💬 Ask me about **React.js and Node.js, Selenium-Automation**
 
 - 📫 How to reach me **prathamkumar1985@gmail.com**
 
