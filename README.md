@@ -3,13 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratham1659&label=Profile%20views&color=0e75b6&style=flat" alt="pratham1659" /> </p>
 
-- 🔭 I’m currently working on [UrbanLadder-Selenium-Testing](https://github.com/pratham1659/UrbanLadder-Selenium-Testing.git)
+- 🔭 I’m currently working on [Smart-Inventory-Management-Allocation-Solution-React-App](https://github.com/pratham1659/Smart-Inventory-Management-Allocation-Solution-React-App.git)
 
-- 🌱 I’m currently learning **Automation Testing-selenium, React.js, Node.js, Express Js, JavaScript, and MongoDB**
-
-- 👨‍💻 All of my projects are available at [https://www.prathamweb.me](https://www.prathamweb.me)
-
-- 💬 Ask me about **React.js and Node.js, Selenium-Automation**
+- 🌱 I’m currently learning ** Java, JavaScript (React.js), Python (FastAPI), Node.js (Express.js), HTML, CSS, RESTful
+APIs, Microservices, SQL (MySQL, PostgreSQL), NoSQL (MongoDB, Redis)**
 
 - 📫 How to reach me **prathamkumar1985@gmail.com**
 
