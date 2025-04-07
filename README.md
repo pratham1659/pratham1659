@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Smart-Inventory-Management-Allocation-Solution-React-App](https://github.com/pratham1659/Smart-Inventory-Management-Allocation-Solution-React-App.git)
 
-- 🌱 I’m currently learning ** Java, JavaScript (React.js), Python (FastAPI), Node.js (Express.js), HTML, CSS, RESTful
+- 🌱 I’m currently learning **Java, JavaScript (React.js), Python (FastAPI), Node.js (Express.js), HTML, CSS, RESTful
 APIs, Microservices, SQL (MySQL, PostgreSQL), NoSQL (MongoDB, Redis)**
 
 - 📫 How to reach me **prathamkumar1985@gmail.com**
