@@ -2,11 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hi,%20I’m%20Pratham%20Kumar&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 </p>
 <h3 align="center">AI/ML Enthusiast | Cloud & Backend Developer | DevOps Learner</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -37,6 +32,7 @@
 
 ### ☁️ Cloud & DevOps
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-6F42C1?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-222222?style=for-the-badge&logo=githubactions&logoColor=white)
 
@@ -79,14 +75,6 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=pratham1659&repo=YOUR_REPO_4&theme=radical" />
   </a>
 </p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratham1659&show_icons=true&theme=radical" />
-</p>
-
 ---
 
 ## 🔥 GitHub Streak
