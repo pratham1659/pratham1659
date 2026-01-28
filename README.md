@@ -1,29 +1,33 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hi%20👋,%20 I'm%20Pratham%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hi,%20I’m%20Pratham%20Kumar&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 </p>
 <h3 align="center">AI/ML Enthusiast | Cloud & Backend Developer | DevOps Learner</h3>
 
----
-
-### 👨‍💻 About Me
-- 🎓 M.Tech (AI & Data Science Engineering)
-- 🤖 Passionate about **AI/ML, Generative AI, and backend systems**
-- ☁️ Exploring **Google Cloud, DevOps, and scalable architectures**
-- 🧪 Experience with **testing, automation, and quality-driven development**
-- 🚀 Always curious to learn and build impactful tech solutions
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
+</p>
 
 ---
 
-### 🛠️ Tech Stack
+## 👨‍💻 About Me
+- 🎓 M.Tech student in **Artificial Intelligence & Data Science Engineering**
+- 🤖 Interested in **AI/ML, Generative AI, and data-driven systems**
+- ☁️ Hands-on with **Google Cloud, backend services, and DevOps workflows**
+- 🧪 Experience in **testing, automation, and quality-focused development**
+- 🚀 Passionate about building **scalable and intelligent applications**
 
-#### 👨‍💻 Programming Languages
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-#### 🤖 AI / Machine Learning
+### 🤖 AI / Machine Learning
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-5A20CB?style=for-the-badge)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge)
@@ -31,14 +35,14 @@
 
 ---
 
-#### ☁️ Cloud & DevOps
+### ☁️ Cloud & DevOps
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-222222?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
-#### ⚙️ Backend & Tools
+### ⚙️ Backend & Tools
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -46,26 +50,69 @@
 
 ---
 
-### 📚 Currently Learning
-- Advanced Machine Learning & Pattern Recognition
-- Generative AI (LLMs, RAG, Transformers)
-- Cloud-native architecture on Google Cloud
-- DevOps best practices & automation
+## 📜 Certifications
+- 🏅 **Google Cloud – Gen AI Academy 2.0 (AI/ML Track)**  
+- 🏅 **Google Cloud – Gen AI Academy 2.0 (DevOps Track)**  
+- 🏅 **HacktoSkill Certified – AI & ML Learning Journey**  
+- 🏅 **HacktoSkill Certified – Cloud & DevOps Fundamentals**
+
+*(Certificates earned through Google Cloud–sponsored upskilling programs)*
 
 ---
 
-### 📊 GitHub Stats
+## 📌 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/pratham1659">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pratham1659&repo=YOUR_REPO_1&theme=radical" />
+  </a>
+  <a href="https://github.com/pratham1659">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pratham1659&repo=YOUR_REPO_2&theme=radical" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/pratham1659">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pratham1659&repo=YOUR_REPO_3&theme=radical" />
+  </a>
+  <a href="https://github.com/pratham1659">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pratham1659&repo=YOUR_REPO_4&theme=radical" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pratham1659&show_icons=true&theme=radical" />
 </p>
 
 ---
 
-### 📫 Connect With Me
-- 💼 LinkedIn: *https://www.linkedin.com/in/pratham1659/*
-- 📧 Email: *prathamkumar1985@gmail.com*
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratham1659&theme=radical" />
+</p>
 
 ---
 
-### ⚡ Fun Fact
-> I enjoy breaking complex systems into simple, testable, and scalable components.
+## 🧠 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham1659&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 📫 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/pratham1659/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Pratham%20Kumar-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+> I enjoy breaking complex AI and system problems into simple, scalable, and testable solutions.
+
+⭐️ Thanks for visiting my GitHub profile!
