@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hi,%20I’m%20Pratham%20Kumar&fontSize=38&fontColor=ffffff&animation=typewriter" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=180&section=header&text=Hi,%20I’m%20Pratham%20Kumar&fontSize=36&fontColor=ffffff&animation=slideIn" />
 </p>
 <h3 align="center">
 AI/ML Enthusiast | Cloud & Backend Developer | DevOps Learner
