@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Pratham%20Kumar&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Pratham Kumar</h1>
 <h3 align="center">AI/ML Enthusiast | Cloud & Backend Developer | DevOps Learner</h3>
 
