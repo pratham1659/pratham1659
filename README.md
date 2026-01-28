@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hi,%20I’m%20Pratham%20Kumar&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 </p>
 <h3 align="center">AI/ML Enthusiast | Cloud & Backend Developer | DevOps Learner</h3>
----
-
 ## 👨‍💻 About Me
 - 🎓 M.Tech student in **Artificial Intelligence & Data Science Engineering**
 - 🤖 Interested in **AI/ML, Generative AI, and data-driven systems**
@@ -53,34 +51,6 @@
 - 🏅 **HacktoSkill Certified – Cloud & DevOps Fundamentals**
 
 *(Certificates earned through Google Cloud–sponsored upskilling programs)*
-
----
-
-## 📌 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/pratham1659">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pratham1659&repo=YOUR_REPO_1&theme=radical" />
-  </a>
-  <a href="https://github.com/pratham1659">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pratham1659&repo=YOUR_REPO_2&theme=radical" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/pratham1659">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pratham1659&repo=YOUR_REPO_3&theme=radical" />
-  </a>
-  <a href="https://github.com/pratham1659">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pratham1659&repo=YOUR_REPO_4&theme=radical" />
-  </a>
-</p>
----
-
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratham1659&theme=radical" />
-</p>
 
 ---
 
