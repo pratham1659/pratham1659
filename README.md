@@ -69,14 +69,6 @@ AI/ML Enthusiast | Cloud & Backend Developer | DevOps Learner
 
 ---
 
-## 🧠 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham1659&layout=compact&theme=radical" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p align="center">
