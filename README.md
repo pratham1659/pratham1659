@@ -1,4 +1,16 @@
-# 👋 Hi, I'm Pratham
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=180&section=header&text=Hi,%20I%E2%80%99m%20Pratham%20Kumar&fontSize=35&fontColor=ffffff&animation=typewriter"
+    width="100%"
+  />
+</p>
+
+<p align="center" style="margin: 0; padding: 0;">
+  <strong style="font-size: 32px;">AI Engineer</strong><br/>
+  <span style="font-size: 17px;">
+    AI/ML • Generative AI • LLMs • RAG • Python • Cloud • Backend
+  </span>
+</p>
 
 ```python
 @controller("users")
@@ -11,22 +23,14 @@ class UserController:
     def create(self):
         return self._create_user_service.execute({
             "name": "Pratham Kumar",
-            "role": "SDET Engineer",
+            "role": "AI Engineer",
+            "email": "prathamkumar1985@gmail.com"
             "github": "https://github.com/pratham1659",
             "linkedin": "https://www.linkedin.com/in/pratham1659/"
             "leetcode": "https://leetcode.com/u/pratham1659/",
             "hackerRank": "https://www.hackerrank.com/profile/pratham1659"
         })
 ```
-
-## 👨‍💻 About Me
-
-* 🎓 M.Tech student in **Artificial Intelligence & Data Science Engineering**
-* 🤖 Interested in **AI/ML, Generative AI, LLMs, and data-driven systems**
-* ☁️ Hands-on with **Google Cloud, backend services, and DevOps workflows**
-* 🧪 Experience in **testing, automation, and quality-focused development**
-
-
 ## 📊 GitHub Stats
 
 <p align="center">
