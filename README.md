@@ -10,7 +10,6 @@
     Generative AI • LLMs • RAG • Cloud & Devops
   </p>
 </div>
-<br />
 
 ```python
 @controller("users")
