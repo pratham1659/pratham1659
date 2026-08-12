@@ -1,16 +1,16 @@
-<p align="center">
+<div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=180&section=header&text=Hi,%20I%E2%80%99m%20Pratham%20Kumar&fontSize=35&fontColor=ffffff&animation=typewriter"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=170&section=header&text=Hi,%20I%E2%80%99m%20Pratham%20Kumar&fontSize=32&fontColor=ffffff&animation=fadeIn"
     width="100%"
   />
-</p>
-
-<p align="center" style="margin: 0; padding: 0;">
-  <strong style="font-size: 32px;">AI Engineer</strong><br/>
-  <span style="font-size: 17px;">
-    AI/ML • Generative AI • LLMs • RAG • Python • Cloud • Backend
-  </span>
-</p>
+  <h1 style="margin: -45px 0 5px 0; padding: 0;">
+    AI Engineer
+  </h1>
+  <p style="margin: 0; color: #8b949e;">
+    Generative AI • LLMs • RAG • Cloud & Devops
+  </p>
+</div>
+<br />
 
 ```python
 @controller("users")
