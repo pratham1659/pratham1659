@@ -69,22 +69,24 @@
     />
   </picture>
 
-  <!-- GitHub Streak -->
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://streak-stats.demolab.com?user=pratham1659&theme=tokyonight&hide_border=true"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://streak-stats.demolab.com?user=pratham1659&theme=default&hide_border=true"
-    />
-    <img
-      height="165"
-      src="https://streak-stats.demolab.com?user=pratham1659&theme=default&hide_border=true"
-      alt="GitHub Streak"
-    />
-  </picture>
+<!-- GitHub Streak -->
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://streak-stats.demolab.com?user=pratham1659&theme=tokyonight&hide_border=true"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://streak-stats.demolab.com?user=pratham1659&theme=default&hide_border=true"
+  />
+
+  <img
+    height="165"
+    src="https://streak-stats.demolab.com?user=pratham1659&theme=default&hide_border=true"
+    alt="GitHub Streak"
+  />
+</picture>
 
   
   <!-- Contribution Snake -->
