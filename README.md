@@ -55,11 +55,14 @@
 <img height="165" src="https://github-stats-extended.vercel.app/api?username=pratham1659&show_icons=true&theme=tokyonight&hide_border=true" />
 <img height="165" src="https://streak-stats.demolab.com?user=pratham1659&theme=tokyonight&hide_border=true" />
 
-<img width="90%" src="https://raw.githubusercontent.com/pratham1659/pratham1659/output/github-contribution-grid-snake.svg" />
+
+<img
+  width="90%"
+  src="https://raw.githubusercontent.com/pratham1659/pratham1659/output/github-contribution-grid-snake.svg"
+  alt="GitHub Contribution Snake"
+/>
 
 </div>
-
-<sub>The snake graphic above renders once a <a href="https://github.com/Platane/snk">`snk`</a> GitHub Action is added to the <code>pratham1659/pratham1659</code> profile repo — see note below.</sub>
 
 ---
 
