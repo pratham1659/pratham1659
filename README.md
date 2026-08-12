@@ -52,19 +52,19 @@
 
 <div align="center">
 
-  <!-- GitHub Stats -->
+<!-- GitHub Stats -->
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-stats-extended.vercel.app/api?username=pratham1659&show_icons=true&theme=tokyonight&hide_border=true"
+      srcset="https://github-stats-extended.vercel.app/api?username=pratham1659&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=A78BFA&border_color=30363D&hide_border=true"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github-stats-extended.vercel.app/api?username=pratham1659&show_icons=true&theme=default&hide_border=true"
-    />
+      srcset="https://github-stats-extended.vercel.app/api?username=pratham1659&show_icons=true&bg_color=FFFFFF&title_color=24292F&text_color=57606A&icon_color=6A11CB&border_color=D0D7DE&hide_border=true"
+  />
     <img
       height="165"
-      src="https://github-stats-extended.vercel.app/api?username=pratham1659&show_icons=true&theme=default&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api?username=pratham1659&show_icons=true&theme=default&hide_border=true"
       alt="GitHub Stats"
     />
   </picture>
