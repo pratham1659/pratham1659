@@ -52,27 +52,57 @@
 
 <div align="center">
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=pratham1659&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://streak-stats.demolab.com?user=pratham1659&theme=tokyonight&hide_border=true" />
+  <!-- GitHub Stats -->
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-stats-extended.vercel.app/api?username=pratham1659&show_icons=true&theme=tokyonight&hide_border=true"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-stats-extended.vercel.app/api?username=pratham1659&show_icons=true&theme=default&hide_border=true"
+    />
+    <img
+      height="165"
+      src="https://github-stats-extended.vercel.app/api?username=pratham1659&show_icons=true&theme=default&hide_border=true"
+      alt="GitHub Stats"
+    />
+  </picture>
 
+  <!-- GitHub Streak -->
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://streak-stats.demolab.com?user=pratham1659&theme=tokyonight&hide_border=true"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://streak-stats.demolab.com?user=pratham1659&theme=default&hide_border=true"
+    />
+    <img
+      height="165"
+      src="https://streak-stats.demolab.com?user=pratham1659&theme=default&hide_border=true"
+      alt="GitHub Streak"
+    />
+  </picture>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/pratham1659/pratham1659/output/github-contribution-grid-snake-dark.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/pratham1659/pratham1659/output/github-contribution-grid-snake-light.svg"
-  />
-
-  <img
-    src="https://raw.githubusercontent.com/pratham1659/pratham1659/output/github-contribution-grid-snake-light.svg"
-    alt="GitHub Contribution Snake"
-    width="90%"
-  />
-</picture>
+  
+  <!-- Contribution Snake -->
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/pratham1659/pratham1659/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/pratham1659/pratham1659/output/github-contribution-grid-snake-light.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/pratham1659/pratham1659/output/github-contribution-grid-snake-light.svg"
+      alt="GitHub Contribution Snake"
+      width="90%"
+    />
+  </picture>
 
 </div>
 
