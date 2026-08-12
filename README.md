@@ -56,11 +56,23 @@
 <img height="165" src="https://streak-stats.demolab.com?user=pratham1659&theme=tokyonight&hide_border=true" />
 
 
-<img
-  width="90%"
-  src="https://raw.githubusercontent.com/pratham1659/pratham1659/output/github-contribution-grid-snake.svg"
-  alt="GitHub Contribution Snake"
-/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/pratham1659/pratham1659/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/pratham1659/pratham1659/output/github-contribution-grid-snake-light.svg"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/pratham1659/pratham1659/output/github-contribution-grid-snake-light.svg"
+    alt="GitHub Contribution Snake"
+    width="90%"
+  />
+</picture>
 
 </div>
 
