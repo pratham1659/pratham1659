@@ -17,11 +17,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate Streak Stats
+      - name: Generate Dark Streak
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
           options: >-
-            user=${{ github.repository_owner }}
+            user=pratham1659
             &theme=tokyonight
             &hide_border=true
             &background=0D1117
@@ -36,11 +36,11 @@ jobs:
           path: profile/streak-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate Light Streak Stats
+      - name: Generate Light Streak
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
           options: >-
-            user=${{ github.repository_owner }}
+            user=pratham1659
             &theme=default
             &hide_border=true
             &background=FFFFFF
