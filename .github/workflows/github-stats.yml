@@ -1,9 +1,6 @@
 name: Update GitHub Stats
 
 on:
-  schedule:
-    - cron: "0 4 * * *"
-
   workflow_dispatch:
 
 permissions:
@@ -17,38 +14,32 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      # -----------------------------
-      # Generate DARK GitHub Stats
-      # -----------------------------
-      - name: Generate Dark Stats
+      - name: Download Dark Stats
         run: |
           mkdir -p profile
 
           curl -L \
+            -A "Mozilla/5.0" \
+            -w "\nHTTP_STATUS=%{http_code}\n" \
             "https://github-readme-stats.vercel.app/api?username=pratham1659&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=A78BFA" \
             -o profile/github-stats-dark.svg
 
-      # -----------------------------
-      # Generate LIGHT GitHub Stats
-      # -----------------------------
-      - name: Generate Light Stats
-        run: |
-          mkdir -p profile
+          echo "Dark SVG size:"
+          wc -c profile/github-stats-dark.svg
 
+          echo "First 200 characters:"
+          head -c 200 profile/github-stats-dark.svg
+
+      - name: Download Light Stats
+        run: |
           curl -L \
+            -A "Mozilla/5.0" \
+            -w "\nHTTP_STATUS=%{http_code}\n" \
             "https://github-readme-stats.vercel.app/api?username=pratham1659&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=24292F&text_color=57606A&icon_color=6A11CB" \
             -o profile/github-stats-light.svg
 
-      # -----------------------------
-      # Commit generated SVGs
-      # -----------------------------
-      - name: Commit GitHub Stats
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          echo "Light SVG size:"
+          wc -c profile/github-stats-light.svg
 
-          git add profile/github-stats-dark.svg profile/github-stats-light.svg
-
-          git commit -m "Update GitHub stats" || exit 0
-
-          git push
+          echo "First 200 characters:"
+          head -c 200 profile/github-stats-light.svg
