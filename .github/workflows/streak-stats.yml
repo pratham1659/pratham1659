@@ -17,44 +17,29 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      # -----------------------------
+      # Generate DARK Streak
+      # -----------------------------
       - name: Generate Dark Streak
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          options: >-
-            user=pratham1659
-            &theme=tokyonight
-            &hide_border=true
-            &background=0D1117
-            &ring=A78BFA
-            &fire=A78BFA
-            &currStreakLabel=A78BFA
-            &sideLabels=8B949E
-            &dates=8B949E
-            &currStreakNum=FFFFFF
-            &sideNums=FFFFFF
-            &disable_animations=true
+          options: "user=pratham1659&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=8B949E&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&disable_animations=true"
           path: profile/streak-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      # -----------------------------
+      # Generate LIGHT Streak
+      # -----------------------------
       - name: Generate Light Streak
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          options: >-
-            user=pratham1659
-            &theme=default
-            &hide_border=true
-            &background=FFFFFF
-            &ring=6A11CB
-            &fire=6A11CB
-            &currStreakLabel=6A11CB
-            &sideLabels=57606A
-            &dates=57606A
-            &currStreakNum=24292F
-            &sideNums=24292F
-            &disable_animations=true
+          options: "user=pratham1659&theme=default&hide_border=true&background=FFFFFF&ring=6A11CB&fire=6A11CB&currStreakLabel=6A11CB&sideLabels=57606A&dates=57606A&currStreakNum=24292F&sideNums=24292F&disable_animations=true"
           path: profile/streak-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      # -----------------------------
+      # Commit generated SVGs
+      # -----------------------------
       - name: Commit Streak Stats
         run: |
           git config user.name "github-actions[bot]"
