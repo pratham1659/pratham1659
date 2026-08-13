@@ -1,0 +1,67 @@
+name: Update GitHub Streak
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate Streak Stats
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: >-
+            user=${{ github.repository_owner }}
+            &theme=tokyonight
+            &hide_border=true
+            &background=0D1117
+            &ring=A78BFA
+            &fire=A78BFA
+            &currStreakLabel=A78BFA
+            &sideLabels=8B949E
+            &dates=8B949E
+            &currStreakNum=FFFFFF
+            &sideNums=FFFFFF
+            &disable_animations=true
+          path: profile/streak-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Light Streak Stats
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: >-
+            user=${{ github.repository_owner }}
+            &theme=default
+            &hide_border=true
+            &background=FFFFFF
+            &ring=6A11CB
+            &fire=6A11CB
+            &currStreakLabel=6A11CB
+            &sideLabels=57606A
+            &dates=57606A
+            &currStreakNum=24292F
+            &sideNums=24292F
+            &disable_animations=true
+          path: profile/streak-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit Streak Stats
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add profile/streak-dark.svg profile/streak-light.svg
+
+          git commit -m "Update GitHub streak stats" || exit 0
+
+          git push
