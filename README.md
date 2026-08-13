@@ -73,15 +73,15 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://streak-stats.demolab.com?user=pratham1659&theme=tokyonight&hide_border=true&background=0D1117"
+      srcset="./profile/streak-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://streak-stats.demolab.com?user=pratham1659&theme=default&hide_border=true&background=FFFFFF"
+      srcset="./profile/streak-light.svg"
     />
     <img
       height="165"
-      src="https://streak-stats.demolab.com?user=pratham1659&theme=default&hide_border=true&background=FFFFFF"
+      src="./profile/streak-light.svg"
       alt="GitHub Streak"
     />
   </picture>
